@@ -1,0 +1,111 @@
+[
+    {
+      "card_id": "01",
+      "card_cover_img": "https://i.ibb.co/wcVSfQw/1.jpg",
+      "card_title": "Deluxe Ocean View Suite",
+      "card_unique_word": "Breathtaking",
+      "card_money": "$349.99",
+      "card_view_details_button": "View Suite",
+      "card_details": "Experience the breathtaking beauty of our Deluxe Ocean View Suite. Enjoy stunning panoramic views of the sparkling ocean from your private balcony."
+    },
+    {
+      "card_id": "02",
+      "card_cover_img": "https://i.ibb.co/1JM8PCM/creators-brand-EI9-QXYnlp-Pw-unsplash.jpg",
+      "card_title": "Gourmet Dining Experience",
+      "card_unique_word": "Culinary",
+      "card_money": "$149.95",
+      "card_view_details_button": "Explore Menu",
+      "card_details": "Indulge in a culinary journey with our Gourmet Dining Experience. Savor exquisite dishes prepared by our world-renowned chefs."
+    },
+    {
+      "card_id": "03",
+      "card_cover_img": "https://i.ibb.co/k9LSrDV/3.jpg",
+      "card_title": "Adventure Trekking Tour",
+      "card_unique_word": "Thrilling",
+      "card_money": "$499.99",
+      "card_view_details_button": "Book Adventure",
+      "card_details": "Embark on a thrilling adventure with our Trekking Tour. Explore remote landscapes, encounter wildlife, and discover the beauty of nature."
+    },
+    {
+      "card_id": "04",
+      "card_cover_img": "https://i.ibb.co/TkNN5yW/resort-cheers.jpg",
+      "card_title": "Luxury Spa Retreat",
+      "card_unique_word": "Relaxation",
+      "card_money": "$299.99",
+      "card_view_details_button": "Book Retreat",
+      "card_details": "Experience ultimate relaxation with our Luxury Spa Retreat. Unwind with rejuvenating spa treatments and immerse yourself in tranquility."
+    },
+    {
+      "card_id": "05",
+      "card_cover_img": "https://i.ibb.co/12gZNSn/looking-interesting-places-visit.jpg",
+      "card_title": "Historical City Tour",
+      "card_unique_word": "Heritage",
+      "card_money": "$199.95",
+      "card_view_details_button": "Learn More",
+      "card_details": "Explore the rich heritage of our city with a Historical City Tour. Visit iconic landmarks and learn about our fascinating history."
+    },
+    {
+      "card_id": "06",
+      "card_cover_img": "https://i.ibb.co/FKFKbsc/group-happy-friends-beach-man-tossing-happy-woman.jpg",
+      "card_title": "Luxury Cruise Vacation",
+      "card_unique_word": "Exquisite",
+      "card_money": "$449.50",
+      "card_view_details_button": "View Cruise",
+      "card_details": "Sail away on an exquisite Luxury Cruise Vacation. Enjoy world-class amenities, gourmet dining, and breathtaking ocean views."
+    },
+    {
+      "card_id": "07",
+      "card_cover_img": "https://i.ibb.co/xgdcKHw/7.jpg",
+      "card_title": "Wildlife Safari Expedition",
+      "card_unique_word": "Untamed",
+      "card_money": "$369.99",
+      "card_view_details_button": "Details",
+      "card_details": "Embark on an untamed adventure with our Wildlife Safari Expedition. Witness the beauty of nature and encounter wild animals in their natural habitat."
+    },
+    {
+      "card_id": "08",
+      "card_cover_img": "https://i.ibb.co/fvWQNnn/graziano-de-maio-R84-Zl-XGm9-M-unsplash.jpg",
+      "card_title": "Scenic Mountain Retreat",
+      "card_unique_word": "Serene",
+      "card_money": "$245.00",
+      "card_view_details_button": "Explore Retreat",
+      "card_details": "Experience serenity with our Scenic Mountain Retreat. Stay in cozy cabins, hike through lush forests, and enjoy stunning mountain vistas."
+    },
+    {
+      "card_id": "09",
+      "card_cover_img": "https://i.ibb.co/kMSgQZg/jennifer-yung-ZPHG0-DNNle-A-unsplash.jpg",
+      "card_title": "Wine Tasting Tour",
+      "card_unique_word": "Vineyards",
+      "card_money": "$259.99",
+      "card_view_details_button": "Explore Tours",
+      "card_details": "Discover the charm of vineyards with our Wine Tasting Tour. Sample exquisite wines and learn about the art of winemaking."
+    },
+    {
+      "card_id": "10",
+      "card_cover_img": "https://i.ibb.co/Pj17Mm1/nicolas-hoizey-2-Mu-Z23gk-FKo-unsplash.jpg",
+      "card_title": "Artisanal Craft Workshop",
+      "card_unique_word": "Creativity",
+      "card_money": "$134.95",
+      "card_view_details_button": "Learn More",
+      "card_details": "Unleash your creativity with our Artisanal Craft Workshop. Create unique handmade crafts and take home your own masterpiece."
+    },
+    {
+      "card_id": "11",
+      "card_cover_img": "https://i.ibb.co/hMDJSM5/collov-home-design-Kv-GG0pa-Oh-OA-unsplash.jpg",
+      "card_title": "Spacious Family Suite",
+      "card_unique_word": "Friendly",
+      "card_money": "$379.50",
+      "card_view_details_button": "View Suite",
+      "card_details": "Enjoy a family-friendly vacation in our spacious Family Suite. With separate bedrooms and a living area, it's perfect for quality family time."
+    },
+    {
+      "card_id": "12",
+      "card_cover_img": "https://i.ibb.co/M9nv7r6/farhad-ibrahimzade-un2i-17y4-I-unsplash.jpg",
+      "card_title": "Culinary Masterclass",
+      "card_unique_word": "Culinary",
+      "card_money": "$219.99",
+      "card_view_details_button": "Join Class",
+      "card_details": "Join our culinary masterclass and become a culinary expert. Learn cooking techniques, prepare gourmet dishes, and impress your friends."
+    }
+  ]
+  

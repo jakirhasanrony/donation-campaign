@@ -15,23 +15,18 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <div>
-      <div style={{
-            backgroundImage: `url("https://i.ibb.co/wRjJyms/background.png"),`, backgroundPosition:'center', 
-            backgroundRepeat: 'no-repeat',
-            backgroundSize: 'cover' ,
-             
-          }}>
+      <div>
         <Navbar></Navbar>
         <Banner></Banner>
       </div>
-      <Home></Home>
       <Outlet></Outlet>
 
     </div>,
     children: [
       {
         path: "/",
-        element: <Home></Home>
+        element: <Home></Home>,
+        loader: ()=> fetch('/cardDetails.json')
       },
       {
         path: "/donation",
