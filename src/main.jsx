@@ -11,22 +11,27 @@ import Donation from './Pages/Donation/Donation';
 import Statistics from './Pages/Statistics/Statistics';
 import Navbar from './Header/Navbar/Navbar';
 import Banner from './Header/Banner/Banner';
+import ErrorPage from './Pages/ErrorPages/ErrorPage';
+import Card from './Components/Card/Card';
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>
+    element: (<div>
       <div>
         <Navbar></Navbar>
         <Banner></Banner>
       </div>
-      <Outlet></Outlet>
+      <div className='py-10'>
+        <Outlet></Outlet>
+      </div>
 
-    </div>,
+    </div>),
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: "/",
         element: <Home></Home>,
-        loader: ()=> fetch('/cardDetails.json')
+        loader: () => fetch('/cardDetails.json')
       },
       {
         path: "/donation",
@@ -35,6 +40,11 @@ const router = createBrowserRouter([
       {
         path: "/statistics",
         element: <Statistics></Statistics>
+      },
+      {
+        path: "/card/:card_id",
+        element: <Card></Card>,
+        loader: () => fetch('/cardDetails.json')
       }
 
     ]

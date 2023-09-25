@@ -6,7 +6,9 @@
       "card_unique_word": "Breathtaking",
       "card_money": "$349.99",
       "card_view_details_button": "View Suite",
-      "card_details": "Experience the breathtaking beauty of our Deluxe Ocean View Suite. Enjoy stunning panoramic views of the sparkling ocean from your private balcony."
+      "card_details": "Experience the breathtaking beauty of our Deluxe Ocean View Suite. Enjoy stunning panoramic views of the sparkling ocean from your private balcony.",
+      "text_color": "#0052FF",
+      "bg_color": "#0052FF26"
     },
     {
       "card_id": "02",
@@ -15,7 +17,9 @@
       "card_unique_word": "Culinary",
       "card_money": "$149.95",
       "card_view_details_button": "Explore Menu",
-      "card_details": "Indulge in a culinary journey with our Gourmet Dining Experience. Savor exquisite dishes prepared by our world-renowned chefs."
+      "card_details": "Indulge in a culinary journey with our Gourmet Dining Experience. Savor exquisite dishes prepared by our world-renowned chefs.",
+      "text_color": "#0052FF",
+      "bg_color": "#FF444926"
     },
     {
       "card_id": "03",
@@ -24,7 +28,9 @@
       "card_unique_word": "Thrilling",
       "card_money": "$499.99",
       "card_view_details_button": "Book Adventure",
-      "card_details": "Embark on a thrilling adventure with our Trekking Tour. Explore remote landscapes, encounter wildlife, and discover the beauty of nature."
+      "card_details": "Embark on a thrilling adventure with our Trekking Tour. Explore remote landscapes, encounter wildlife, and discover the beauty of nature.",
+      "text_color": "#79C23F",
+      "bg_color": "#79C23F26"
     },
     {
       "card_id": "04",
@@ -33,7 +39,9 @@
       "card_unique_word": "Relaxation",
       "card_money": "$299.99",
       "card_view_details_button": "Book Retreat",
-      "card_details": "Experience ultimate relaxation with our Luxury Spa Retreat. Unwind with rejuvenating spa treatments and immerse yourself in tranquility."
+      "card_details": "Experience ultimate relaxation with our Luxury Spa Retreat. Unwind with rejuvenating spa treatments and immerse yourself in tranquility.",
+      "text_color": "#F87147",
+      "bg_color": "#F8714726"
     },
     {
       "card_id": "05",
@@ -42,7 +50,9 @@
       "card_unique_word": "Heritage",
       "card_money": "$199.95",
       "card_view_details_button": "Learn More",
-      "card_details": "Explore the rich heritage of our city with a Historical City Tour. Visit iconic landmarks and learn about our fascinating history."
+      "card_details": "Explore the rich heritage of our city with a Historical City Tour. Visit iconic landmarks and learn about our fascinating history.",
+      "text_color": "#F87147",
+      "bg_color": "#F8714726"
     },
     {
       "card_id": "06",
@@ -51,7 +61,9 @@
       "card_unique_word": "Exquisite",
       "card_money": "$449.50",
       "card_view_details_button": "View Cruise",
-      "card_details": "Sail away on an exquisite Luxury Cruise Vacation. Enjoy world-class amenities, gourmet dining, and breathtaking ocean views."
+      "card_details": "Sail away on an exquisite Luxury Cruise Vacation. Enjoy world-class amenities, gourmet dining, and breathtaking ocean views.",
+      "text_color": "#79C23F",
+      "bg_color": "#79C23F26"
     },
     {
       "card_id": "07",
@@ -60,7 +72,9 @@
       "card_unique_word": "Untamed",
       "card_money": "$369.99",
       "card_view_details_button": "Details",
-      "card_details": "Embark on an untamed adventure with our Wildlife Safari Expedition. Witness the beauty of nature and encounter wild animals in their natural habitat."
+      "card_details": "Embark on an untamed adventure with our Wildlife Safari Expedition. Witness the beauty of nature and encounter wild animals in their natural habitat.",
+      "text_color": "#0052FF",
+      "bg_color": "#FF444926"
     },
     {
       "card_id": "08",
@@ -69,7 +83,9 @@
       "card_unique_word": "Serene",
       "card_money": "$245.00",
       "card_view_details_button": "Explore Retreat",
-      "card_details": "Experience serenity with our Scenic Mountain Retreat. Stay in cozy cabins, hike through lush forests, and enjoy stunning mountain vistas."
+      "card_details": "Experience serenity with our Scenic Mountain Retreat. Stay in cozy cabins, hike through lush forests, and enjoy stunning mountain vistas.",
+      "text_color": "#0052FF",
+      "bg_color": "#0052FF26"
     },
     {
       "card_id": "09",
@@ -78,7 +94,9 @@
       "card_unique_word": "Vineyards",
       "card_money": "$259.99",
       "card_view_details_button": "Explore Tours",
-      "card_details": "Discover the charm of vineyards with our Wine Tasting Tour. Sample exquisite wines and learn about the art of winemaking."
+      "card_details": "Discover the charm of vineyards with our Wine Tasting Tour. Sample exquisite wines and learn about the art of winemaking.",
+      "text_color": "#0052FF",
+      "bg_color": "#0052FF26"
     },
     {
       "card_id": "10",
@@ -87,7 +105,9 @@
       "card_unique_word": "Creativity",
       "card_money": "$134.95",
       "card_view_details_button": "Learn More",
-      "card_details": "Unleash your creativity with our Artisanal Craft Workshop. Create unique handmade crafts and take home your own masterpiece."
+      "card_details": "Unleash your creativity with our Artisanal Craft Workshop. Create unique handmade crafts and take home your own masterpiece.",
+      "text_color": "#0052FF",
+      "bg_color": "#FF444926"
     },
     {
       "card_id": "11",
@@ -96,7 +116,9 @@
       "card_unique_word": "Friendly",
       "card_money": "$379.50",
       "card_view_details_button": "View Suite",
-      "card_details": "Enjoy a family-friendly vacation in our spacious Family Suite. With separate bedrooms and a living area, it's perfect for quality family time."
+      "card_details": "Enjoy a family-friendly vacation in our spacious Family Suite. With separate bedrooms and a living area, it's perfect for quality family time.",
+      "text_color": "#79C23F",
+      "bg_color": "#79C23F26"
     },
     {
       "card_id": "12",
@@ -105,7 +127,9 @@
       "card_unique_word": "Culinary",
       "card_money": "$219.99",
       "card_view_details_button": "Join Class",
-      "card_details": "Join our culinary masterclass and become a culinary expert. Learn cooking techniques, prepare gourmet dishes, and impress your friends."
+      "card_details": "Join our culinary masterclass and become a culinary expert. Learn cooking techniques, prepare gourmet dishes, and impress your friends.",
+      "text_color": "#F87147",
+      "bg_color": "#F8714726"
     }
   ]
   

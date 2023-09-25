@@ -3,7 +3,7 @@
 const Banner = () => {
     return (
         <div >
-             <section className="flex justify-center items-center h-[70vh]" >
+             <section className="flex justify-center items-center h-[50vh]" >
                 <div>
                     <h1 className="text-3xl text-center md:text-4xl lg:text-6xl font-bold">I Grow By Helping People In Need</h1>
                     <div className="flex justify-center items-center my-10">
