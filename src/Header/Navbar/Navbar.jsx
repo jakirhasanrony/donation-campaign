@@ -1,3 +1,4 @@
+import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
     return (
@@ -8,14 +9,36 @@ const Navbar = () => {
                 </div>
                 <div>
                     <ul className="flex gap-5">
-                        <a href="/">Home</a>
-                        <a href="/donation">Donation</a>
-                        <a href="/statistics">Statistics</a>
-                    </ul>
-                </div>
+                        <NavLink
+                            to="/"
+                            className={({ isActive, isPending }) =>
+                                isPending ? "pending" : isActive ? "text-red-700 underline" : ""
+                            }
+                        >
+                            Home
+                        </NavLink>
+                        <NavLink
+                            to="/donation"
+                            className={({ isActive, isPending }) =>
+                                isPending ? "pending" : isActive ? "text-red-700 underline" : ""
+                            }
+                        >
+                           Donation
+                        </NavLink>
+                        <NavLink
+                            to="/statistics"
+                            className={({ isActive, isPending }) =>
+                                isPending ? "pending" : isActive ? "text-red-700 underline" : ""
+                            }
+                        >
+                           Statistics
+                        </NavLink>
+
+                </ul>
             </div>
-           
         </div>
+
+        </div >
     );
 };
 
