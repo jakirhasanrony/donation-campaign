@@ -15,4 +15,4 @@
 * Use a charting library (e.g., Chart.js or D3.js) to generate the pie chart. The chart should dynamically update as cards are donated, reflecting the changing percentages.
 * Implement a real-time data update mechanism that listens for changes in the donated cards' status and updates the chart accordingly. When a card is donated, the chart should visually reflect the increase in the "donated" segment and decrease in the "remaining" segment for the respective category.
 ---
-![image] (https://i.ibb.co/qYH1TVK/best-fundraising-websites.webp) 
+
