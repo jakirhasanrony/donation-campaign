@@ -8,7 +8,7 @@ const Navbar = () => {
                     <img className="md:max-w-[200px]" src="https://i.ibb.co/PDsyctT/Logo.png" alt="" />
                 </div>
                 <div>
-                    <ul className="flex gap-5">
+                    <ul className="flex gap-5 font-bold">
                         <NavLink
                             to="/"
                             className={({ isActive, isPending }) =>

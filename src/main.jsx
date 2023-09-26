@@ -21,7 +21,7 @@ const router = createBrowserRouter([
         <Navbar></Navbar>
         
       </div>
-      <div className='py-10'>
+      <div className='py-4'>
         <Outlet></Outlet>
       </div>
 
