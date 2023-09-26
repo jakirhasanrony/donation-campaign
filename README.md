@@ -1,3 +1,5 @@
+![samuel-regan-asante-JjlkGAc4OUM-unsplash](https://github.com/programming-hero-web-course-4/b8a8-donation-campaign-jakirhasanrony/assets/99494672/0859e8b0-94ed-4b0d-b175-b068455af916)
+---
 # The Features of this projects
 **First Feature: Unique Donation Tracking**
 
@@ -15,4 +17,5 @@
 * Use a charting library (e.g., Chart.js or D3.js) to generate the pie chart. The chart should dynamically update as cards are donated, reflecting the changing percentages.
 * Implement a real-time data update mechanism that listens for changes in the donated cards' status and updates the chart accordingly. When a card is donated, the chart should visually reflect the increase in the "donated" segment and decrease in the "remaining" segment for the respective category.
 ---
-
+![katt-yukawa-K0E6E0a0R3A-unsplash](https://github.com/programming-hero-web-course-4/b8a8-donation-campaign-jakirhasanrony/assets/99494672/d47fad27-3305-4b2c-878f-cf19ed22d587)
+---
