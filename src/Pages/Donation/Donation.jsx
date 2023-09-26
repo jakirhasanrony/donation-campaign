@@ -26,16 +26,18 @@ const Donation = () => {
                     <div >
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 justify-center items-center px-28">
                             {
-                                ishShowAll? donatedItem.map(card => <DonatedItemCard key={card.card_id} card={card}></DonatedItemCard>)
+                                ishShowAll ? donatedItem.map(card => <DonatedItemCard key={card.card_id} card={card}></DonatedItemCard>)
 
-                                : donatedItem.slice(0,4).map(card => <DonatedItemCard key={card.card_id} card={card}></DonatedItemCard>)
+                                    : donatedItem.slice(0, 4).map(card => <DonatedItemCard key={card.card_id} card={card}></DonatedItemCard>)
                             }
                         </div>
-                      <div className="flex justify-center items-center my-5">
-                      <button onClick={()=>setIsShowAll(!ishShowAll)} className="btn btn-accent ">{
-                        ishShowAll? "See Less" : "See All"
-                      }</button>
-                      </div>
+                        <div className="flex justify-center items-center my-5">
+                           {
+                            donatedItem.length > 4 &&  <button onClick={() => setIsShowAll(!ishShowAll)} className="btn btn-accent ">{
+                                ishShowAll ? "See Less" : "See All"
+                            }</button>
+                           }
+                        </div>
 
                     </div>
             }

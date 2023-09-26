@@ -22,7 +22,7 @@ const DonatedItemCard = ({ card }) => {
               
                 <p >{card_title}</p>
                 <p className="font-bold ">Donate <span>{card_money}</span></p>
-                    <div className="card-actions justify-end">
+                    <div className="card-actions justify-start">
                         <button style={textStyle2} className="btn text-white">View details</button>
                     </div>
                 </div>
