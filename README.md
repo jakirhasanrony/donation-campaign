@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 ![samuel-regan-asante-JjlkGAc4OUM-unsplash](https://github.com/programming-hero-web-course-4/b8a8-donation-campaign-jakirhasanrony/assets/99494672/0859e8b0-94ed-4b0d-b175-b068455af916)
 ---
 # The Features of this projects
