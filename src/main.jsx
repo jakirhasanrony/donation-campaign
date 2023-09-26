@@ -10,7 +10,7 @@ import Home from './Pages/Home/Home';
 import Donation from './Pages/Donation/Donation';
 import Statistics from './Pages/Statistics/Statistics';
 import Navbar from './Header/Navbar/Navbar';
-import Banner from './Header/Banner/Banner';
+
 import ErrorPage from './Pages/ErrorPages/ErrorPage';
 import Card from './Components/Card/Card';
 const router = createBrowserRouter([
@@ -19,7 +19,7 @@ const router = createBrowserRouter([
     element: (<div>
       <div>
         <Navbar></Navbar>
-        <Banner></Banner>
+        
       </div>
       <div className='py-10'>
         <Outlet></Outlet>
