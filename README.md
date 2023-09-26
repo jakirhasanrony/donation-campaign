@@ -20,4 +20,3 @@
 ---
 ![katt-yukawa-K0E6E0a0R3A-unsplash](https://github.com/programming-hero-web-course-4/b8a8-donation-campaign-jakirhasanrony/assets/99494672/d47fad27-3305-4b2c-878f-cf19ed22d587)
 ---
->>>>>>> d4bb67fc62d139f919e01b0c30f9604d734cf075
