@@ -1,3 +1,4 @@
+import swal from "sweetalert";
 
 const SingleCardDetails = ({ card }) => {
 
@@ -12,19 +13,18 @@ const SingleCardDetails = ({ card }) => {
         if(!donatedItems){
             donatedList.push(card);
             localStorage.setItem('donated', JSON.stringify(donatedList));
+            swal("Good job!", "Your donation is successful!", "success");
         }
         else{
 
             const isDonated = donatedItems.find(card => card.card_id=== card_id)
-
-
             if(!isDonated){
                 donatedList.push(...donatedItems, card);
                 localStorage.setItem('donated', JSON.stringify(donatedList));
-                alert('donated');
+                swal("Good job!", "Your donation is successful!", "success");
             }
             else{
-                alert('already added')
+                swal("Error Arises!", "Already donation done!", "error");
             }
 
         
