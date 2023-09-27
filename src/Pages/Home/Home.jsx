@@ -5,7 +5,7 @@ import Banner from "../../Header/Banner/Banner";
 const Home = () => {
     const cards = useLoaderData()
  
-
+console.log(cards)
     return (
         <div >
           <Banner></Banner>
